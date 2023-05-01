@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Caption:wght@400;700&display=swap');
+*,
+*::after,
+*::before {
+    margin: 0;
+  box-sizing: border-box;
+  font-family: 'PT Sans Caption', sans-serif;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #f5f5f5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#_dash-app-content{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
